@@ -1,0 +1,15 @@
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+  }
+  
+  button {
+    background: #2ecc71;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+  }
